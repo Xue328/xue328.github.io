@@ -1,4 +1,2 @@
 # xue328.github.io
-#一个新手的一个小小的个人网站
-#希望各位大佬不要攻击
-#顺便记录一下自己学习的过程加油
+#A novice of a small personal website ා I hope you don&#39;t attack ා by the way, record your learning process, refueling
